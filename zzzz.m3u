@@ -1,0 +1,339 @@
+﻿#EXTM3U
+#EXTINF:-1 tvg-id="TVP 1" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_1_HD_1.png" group-title="",TVP 1 HD
+http://91.232.63.154:7777/stream/channelid/975404660
+#EXTINF:-1 tvg-id="TVP 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_2_HD_1.png" group-title="",TVP 2 HD
+http://91.232.63.154:7777/stream/channelid/1913613206
+#EXTINF:-1 tvg-id="Polsat" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_1.png" group-title="",Polsat
+rtmp://31.220.40.63/privatestream/ playpath=fddfdfdfdfdf?keys=zJGMAKZCZnbHUBcBRdIvIw&keyt=1492855828 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=fddfdfdfdfdf&width=600&height=450
+#EXTINF:-1 tvg-id="TVN" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_HD_1.png" group-title="",TVN HD
+rtmp://31.220.40.63/privatestream/ playpath=cbfghjfurtyer?keys=_R1--kOGmxjA1HtkzXE--A?keys=_yUz9EkKu49Ajxw1hJEKIg&keyt=1489094356 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf pageUrl=http://privatestream.tv/player?streamname=cbfghjfurtyer?keys=_R1--kOGmxjA1HtkzXE--A&keyt=1488244969&width=770&height=480
+#EXTINF:-1 tvg-id="TV 4" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TV_4_1.png" group-title="",TV 4
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/24/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TV 4" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TV_4_HD_1.png" group-title="",TV 4 HD
+
+#EXTINF:-1 tvg-id="TV 6" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TV_6_1.png" group-title="",TV 6
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/38/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TV Puls" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TV_Puls_1.png" group-title="",TV Puls HD
+http://wolverine.castto.me:6081/live/0ZMEftMnRePBFCJRVsWQ/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/puls.html
+#EXTINF:-1 tvg-id="Puls 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Puls_2_1.png" group-title="",Puls 2
+http://195.206.253.142:20099/NH20YXY80V76DXDBP9M5CKTSY651LBSZ-L3RtcDIvdHZwdWxzMi1zdA==-2071186789-f31470849c258fcedb97590bf293bece/str1/stream
+#EXTINF:-1 tvg-id="PULS 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Puls_2_1.png" group-title="",Puls 2 HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/30/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_7_1.png" group-title="",TVN 7
+rtmp://31.220.40.60/privatestream/ playpath=dsdssdsdsd?keys=X9uALHgC9IXAOiKnitA9yw&keyt=1492855827 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=dsdssdsdsd&width=600&height=450
+#EXTINF:-1 tvg-id="TVN 7" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_7_HD_1.png" group-title="",TVN 7 HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/104/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Polsat 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_2_HD_1.png" group-title="",Polsat 2 HD
+http://hls.redefine.pl/E30464E3/10258/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Super Polsat" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Super Polsat
+http://hls.redefine.pl/98FA8413/1505/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVP HD" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_HD_1.png" group-title="",TVP HD
+rtmp://31.220.40.63/live/ playpath=tvnndffd?keys=lU5atuWp9Us4SGZe51D7CQ&keyt=1491060998 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=tvnndffd&width=600&height=450
+#EXTINF:-1 tvg-id="TVP Seriale" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_Seriale_1.png" group-title="",TVP Seriale
+rtmp://31.220.40.63/privatestream/ playpath=tvpseriallaaa?keys=-nSix9NCzpKdq-e1y_Pnjw&keyt=1492425543 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=tvpseriallaaa&width=600&height=450
+#EXTINF:-1 tvg-id="TVP Kultura" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_Kultura_1.png" group-title="",TVP Kultura
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/211207/c/4/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVP Rozrywka" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Rozrywka
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/211207/c/7/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="" tvg-shift="" radio="" tvg-logo="http://tele-wizja.com/logo/tvnturbo.gif" group-title="",TVN Turbo
+http://wolverine.castto.me:6081/live/cLkRj8mh2ax4fptVA5FS/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/tvnturbo.html
+#EXTINF:-1 tvg-id="TVN Turbo" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_Turbo_HD_1.png" group-title="",TVN Turbo HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/105/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVN Style" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_Style_HD_1.png" group-title="",TVN Style HD
+http://wolverine.castto.me:6081/live/lZYyDabFkxtU7Y1kRfFK/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/tvnstyle.html
+#EXTINF:-1 tvg-id="TVN Meteo Active" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HGTV_1.png" group-title="",HGTV
+http://193.32.36.27:15846 
+#EXTINF:-1 tvg-id="Polsat Play" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Play_HD_1.png" group-title="",Polsat Play HD
+http://hls.redefine.pl/66EB39A9/11379/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Polsat Cafe" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Cafe_HD_1.png" group-title="",Polsat Cafe HD
+http://hls.redefine.pl/66C13FD2/11441/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Twoja TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Twoja_TV_1.png" group-title="",Twoja TV
+http://94.246.169.19/ttv_hls/live_720p/index.m3u8
+#EXTINF:-1 tvg-id="TTV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TTV_1.png" group-title="",TTV
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/29/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="ATM Rozrywka" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",ATM Rozrywka
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/31/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="WP1" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/WP1_1.png" group-title="",WP1
+https://av-cdn-1.wpimg.pl/tv24/ngrp:wp1/chunklist_b1628000.m3u8
+#EXTINF:-1 tvg-id="Nowa TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nowa_TV_1.png" group-title="",NOWA TV
+http://193.32.36.27:15731
+#EXTINF:-1 tvg-id="TLC" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TLC_HD_1.png" group-title="",TLC HD
+http://n-1-24.dcs.redcdn.pl/hls/o2/redefine/nlive/tlc_2/11391/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+#EXTINF:-1 tvg-id="Polonia" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polonia_1_1.png" group-title="",Polonia
+http://193.32.36.27:8005
+#EXTINF:-1 tvg-id="Tele 5" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Tele_5_1.png" group-title="",Tele 5
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/107/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Stopklatka TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Stopklatka_TV_1.png" group-title="",Stopklatka TV
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/54/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Domo+" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Domo+_HD_1.png" group-title="",Domo+ HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/209153/c/112/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Kuchnia+" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Kuchnia+_HD_1.png" group-title="",Kuchnia+ HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/12/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Republika TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TV_Republika_1.png" group-title="",Republika TV
+http://hls.redefine.pl/93F156C9/2643/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Superstacja" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Superstacja_1.png" group-title="",Superstacja
+http://hls.redefine.pl/97100F84/1577/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Kino Polska" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Kino_Polska_1.png" group-title="",Kino Polska
+http://hls.redefine.pl/76929AC6/1571/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Fokus TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Fokus_TV_1.png" group-title="",Fokus TV
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/34/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Canal+" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+
+http://195.206.252.34:20033/YINN8M5YKHS1QUWG93S05U9WL3TG8A1X-L3RtcDIvY2FuYWwtc3Q=-2071017073-358e0a5669058bd4b003df0035e851e4/str1/stream
+#EXTINF:-1 tvg-id="CANAL+" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_HD_1.png" group-title="",Canal+ HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/1/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+1" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_1_1.png" group-title="",Canal+ 1
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/5/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+ Film" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Film_HD_1.png" group-title="",Canal+ Film
+http://194.28.112.93:3141/OOJ6RDE8W68PZMXYCM9D0NUK2078RRA5-L3RtcDIvY2FuYWxmaWxtaGQtaGQ=-2071068055-f3bfa4f07f4632b395b74882862b21c5/str1/stream
+#EXTINF:-1 tvg-id="CANAL+ Film" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Film_HD_1.png" group-title="",Canal+ Film HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/2/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+ Family" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Family_HD_1.png" group-title="",Canal+ Family
+rtmp://31.220.0.187/live/ playpath=canalffffaaa?keys=XyxFY00ty_JeW_OTfOVc9w&keyt=1492425536 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=canalffffaaa&width=600&height=450
+#EXTINF:-1 tvg-id="CANAL+ Family" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Family_HD_1.png" group-title="",Canal+ Family HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/3/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+ Seriale" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Seriale_HD_1.png" group-title="",Canal+ Seriale
+http://195.206.252.34:20029/DO7DDVG4I6ARNVO8JSTFPFPTFCE3FQSI-L3RtcDIvY2FuYWxmaWxtMi1zdA==-2071069705-3153b84b9a07ed7000af5028ca47865f/str1/stream
+#EXTINF:-1 tvg-id="CANAL+ Seriale" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Seriale_HD_1.png" group-title="",Canal+ Seriale HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/4/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+ Discovery" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Discovery_HD_1.png" group-title="",Canal+ Discovery
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/6/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="HBO" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HBO_HD_1.png" group-title="",HBO
+
+#EXTINF:-1 tvg-id="HBO" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HBO_HD_1.png" group-title="",HBO HD
+rtmp://31.220.0.13/live/ playpath=hboppol?keys=g59CBYL5VuAcFn_SL_MqCw&keyt=1492855834 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=hboppol&width=600&height=450
+#EXTINF:-1 tvg-id="HBO2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HBO2_HD_1.png" group-title="",HBO2 HD
+rtmp://31.220.40.61/live/ playpath=hbo2pldd?keys=deCL6uakp4EWLQZ5l5QeMQ&keyt=1492855834 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf swfVfy=1 live=1 timeout=13 pageUrl=http://dotstream.tv/player.php?streampage=hbo2pldd&width=600&height=450
+#EXTINF:-1 tvg-id="HBO 3" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HBO3_HD_1.png" group-title="",HBO 3
+http://wstip-1.dyndns-free.com:1200/0702
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Cinemax_HD_1.png" group-title="",Cinemax HD
+
+#EXTINF:-1 tvg-id="Cinemax 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Cinemax_2_HD_1.png" group-title="",Cinemax 2 HD
+
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Paramount_Channel_HD_1.png" group-title="",Paramount Channel
+http://wolverine.castto.me:6081/live/PMWV45xnmznmgt9vp2AZ/index.m3u8
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Universal_Channel_HD_1.png" group-title="",Universal Channel
+http://n-0-121.dcs.redcdn.pl/hls/o2/redefine/nlive/Universal_HD_1/11454/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TNT_HD_1.png" group-title="",TNT HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/TNT_HD_2/11392/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+#EXTINF:-1 tvg-id="BBC" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/BBC_HD_1.png" group-title="",BBC HD
+http://195.206.253.142:21030/9YQK7YHE1MN68CKQOOWB8X36CANUBFOB-L3RtcDIvYmJjaGQtc3Q=-2071014673-94e5e0138f4b813ddfa04c197b99e199/str1/stream
+#EXTINF:-1 tvg-id="BBC Brit" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/BBC_Brit_1.png" group-title="",BBC Brit
+http://194.116.252.129:4022/udp/239.239.4.59:1234
+#EXTINF:-1 tvg-id="Scifi Universal" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Scifi_Universal_1.png" group-title="",Scifi
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/scifi_universal_1/11305/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="13 Ulica" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/13_Ulica_1.png" group-title="",13 Ulica
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/13_ulica_1/11383/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+#EXTINF:-1 tvg-id="Polsat Film" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Film_1.png" group-title="",Polsat Film
+
+#EXTINF:-1 tvg-id="Ale Kino" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/ale_Kino+_HD_1.png" group-title="",AleKino
+http://195.206.252.34:3003/NK3EQ1D1U1L449S0EWBVSTQKIBE4JAIX-L3RtcDIvYWxla2luby1zdA==-2071064975-2917e8a5fa153190d7ca4160a88f4584/str1/stream
+#EXTINF:-1 tvg-id="Ale kino" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/ale_Kino+_HD_1.png" group-title="",Ale Kino HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/9/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Filmbox" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Filmbox_1.png" group-title="",FilmBox
+http://hls.redefine.pl/2910C1B2/1563/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Filmbox Extra HD" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Filmbox_Extra_HD_1.png" group-title="",FilmBox Extra HD
+http://hls.redefine.pl/9BAC29DD/1570/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Filmbox_Family_1.png" group-title="",FilmBox Family
+http://hls.redefine.pl/60306450/1569/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Action" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Filmbox_Action_1.png" group-title="",FilmBox Action
+http://hls.redefine.pl/478676E7/11313/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="FilmBox Premium" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Filmbox_Premium_1.png" group-title="",FilmBox Premium
+http://hls.redefine.pl/3CA6ACBC/1568/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="FOX" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Fox_HD_1.png" group-title="",FOX HD
+
+#EXTINF:-1 tvg-id="Fox Comedy" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Fox_Comedy_1.png" group-title="",Fox Comedy
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/fox_comedy_1/11311/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Comedy Central
+http://194.28.112.93:3015/4AI9VQVD35I1W5MNTJX2QF7463YLNH1H-L3RtcDIvY29tZWR5Y2VudHJhbC1zdA==-2071008829-c23adc100aa95e2208a80dade6867e48/str1/stream
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Comedy_Central_HD_1.png" group-title="",Comedy Central HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/41/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Comedy Central Family" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Comedy_Central_Family_1.png" group-title="",Comedy Central Family
+
+#EXTINF:-1 tvg-id="ID" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/ID_HD_1.png" group-title="",ID HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/ID_HD_1/11375/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Polsat Crime" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Crime_and_Investigation_1.png" group-title="",CI Polsat
+http://hls.redefine.pl/4C97F3A2/11306/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="AXN" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/AXN_HD_1.png" group-title="",AXN HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_HD_1/1938/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN Spin" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/AXN_Spin_HD_1.png" group-title="",AXN Spin HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/AXN_Spin_HD_1/2282/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN Black" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/AXN_Black_1.png" group-title="",AXN Black
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_black_1/2933/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN White" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/AXN_White_1.png" group-title="",AXN White
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/axn_white_1/3244/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS Action" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/CBS_Action.png" group-title="",CBS Action
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_action_1/11321/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS REALITY" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/CBS_Reality.png" group-title="",CBS Reality
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_reality_1/11319/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="CBS Europa" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/CBS_Europa_HD.png" group-title="",CBS Europa
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/cbs_europa_hd_1/11385/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Animal_Planet_1.png" group-title="",Animal Planet
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/animal_planet_hd_1/11394/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP Historia" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Historia
+http://91.232.63.154:7777/stream/channelid/722372101
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Discovery_Channel_HD_1.png" group-title="",Discovery Channel HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_channel_hd_1/11399/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Discovery_Science_HD_1.png" group-title="",Discovery Science HD
+http://n-3-1.dcs.redcdn.pl/hls/o2/redefine/nlive/Discovery_Science_HD_1/11396/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+#EXTINF:-1 tvg-id="Discovery Historia" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Discovery_Historia_1.png" group-title="",Discovery Historia
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_historia_1/11316/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery Turbo Xtra" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Discovery_Turbo_Xtra_HD_1.png" group-title="",DTX HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_turbo_xtra_hd_2/11401/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Planete+" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Planete+
+http://195.206.253.142:3005/R81HJ1WF8M5FP4HP75ISHW7UI75GT74A-L3RtcDIvcGxhbmV0ZXAtc3Q=-2071057292-3262086c88fc4ab5c76bcaa443732a43/str1/stream
+#EXTINF:-1 tvg-id="Planete+" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Planete+_HD_1.png" group-title="",Planete+ HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/68/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="HISTORY" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/History_1.png" group-title="",History
+http://hls.redefine.pl/A2E7AEE6/3531/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="H2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/H2_HD_1.png" group-title="",History 2
+http://hls.redefine.pl/BB4D1F8E/11387/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="DocuBox" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/DocuBox_HD_2.png" group-title="",DocuBox HD
+
+#EXTINF:-1 tvg-id="POLSAT Viasat Nature" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Viasat_Nature_1.png" group-title="",PolsatViasat Nature
+http://hls.redefine.pl/27D4F385/4195/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="POLSAT Viasat Explore" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Viasat_Explore_1.png" group-title="",PolsatViasat Explore HD
+http://hls.redefine.pl/00643E2B/4196/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="POLSAT Viasat History" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Viasat_History_1.png" group-title="",PolsatViasat History HD
+http://hls.redefine.pl/C1F25A0A/4194/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Motowizja" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Motowizja
+http://93.159.188.73:4022/udp/230.1.3.29:1234
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/BBC_Earth_HD_1.png" group-title="",BBC Earth
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/BBC_Earth_HD_1/13332/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="DA VINCI" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Da Vinci
+http://hls.redefine.pl/EE9A2255/4198/0/hls576/576p/list.m3u8
+#EXTINF:-1 tvg-id="Water Planet" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Water Planet
+http://hls.redefine.pl/1D8B4940/11286/0/hls576/576p/list.m3u8
+#EXTINF:-1 tvg-id="Discovery Life" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Discovery_Life_1.png" group-title="",Discovery Life HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/discovery_life_1/11315/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="National Geographic Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/National_Geographic_HD_1.png" group-title="",National Geographic HD
+rtmp://31.220.40.60/live/ playpath=natgeopl?keys=VLN9gOpp_o4-VVfx1iESbQ&keyt=1489082745 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf pageUrl=http://dotstream.tv/player.php?streampage=natgeopl&width=600&height=450
+#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nat_Geo_Wild_1.png" group-title="",Nat Geo Wild
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/nat_geo_wild_1/11308/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Travel Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Travel_Channel_HD_1.png" group-title="",Travel Channel
+http://n-1-35.dcs.redcdn.pl/hls/o2/redefine/nlive/travel_hd_1/11393/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Nat Geo People" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nat_Geo_People_HD_1.png" group-title="",Nat Geo People HD
+
+#EXTINF:-1 tvg-id="MiniMini+" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MiniMini+_HD_1.png" group-title="",Minimini+ HD
+rtmp://31.220.0.201/live/ playpath=fddffddd?keys=4TFF6ybXhwkE6iZMjzJGaw&keyt=1489083829 swfUrl=http://dotstream.tv/jwp/jwplayer.flash.swf pageUrl=http://dotstream.tv/player.php?streampage=fddffddd&height=450&width=600
+#EXTINF:-1 tvg-id="Teletoon" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Teletoon+_HD_1.png" group-title="",Teletoon+ HD
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Boomerang_1.png" group-title="",Boomerang
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/boomerang_1/11322/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Disney_Channel_1.png" group-title="",Disney Channel
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_channel_hd_1/10903/0/tv-ss/live.isml/playlist.m3u8?stream=0&bandwidth=1
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Disney_Junior_1.png" group-title="",Disney Junior
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_junior_1/10905/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Disney_XD_1.png" group-title="",Disney XD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/disney_xd_1/11384/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Cartoon_Network_HD_1.png" group-title="",Cartoon Network HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/CN_HD_1/11395/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nickelodeon_1.png" group-title="",Nickelodeon
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/nickelodeon_polska_1/10249/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nickelodeon_HD_1.png" group-title="",Nickelodeon HD
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Nick_Jr_1.png" group-title="",Nick Jr.
+
+#EXTINF:-1 tvg-id="TVP ABC" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_ABC_1.png" group-title="",TVP ABC
+
+#EXTINF:-1 tvg-id="JimJam Polsat" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/JimJam_Polsat_1.png" group-title="",JimJam Polsat
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/43/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVN 24" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_24_HD_1.png" group-title="",TVN 24 HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/103/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="TVN 24 BiS" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVN_24_BiS_1.png" group-title="",TVN 24 BiŚ
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/28/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Polsat News" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_News_HD_1.png" group-title="",Polsat News HD
+http://hls.redefine.pl/3C93EDDB/1574/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Polsat News2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_News_2_1.png" group-title="",Polsat News 2
+http://hls.redefine.pl/20C4EB56/1575/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVP Info" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_Info_1.png" group-title="",TVP Info
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
+#EXTINF:-1 tvg-id="Canal+ Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Canal+ Sport
+http://194.28.112.93:3022/I08BOG7XOP4IN1UORK0SVMPI0XEC7ARG-L3RtcDIvY2FuYWxzcG9ydC1zdA==-2071050016-e758ec8ac491f4253ca8d9bf43839975/str1/stream
+#EXTINF:-1 tvg-id="CANAL+ Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Sport_HD_1.png" group-title="",Canal+ Sport HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/7/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="CANAL+ Sport2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Canal+_Sport_2_HD_1.png" group-title="",Canal+ Sport2 HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/8/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="nSport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/nSport+_HD_1.png" group-title="",nSport+
+http://194.28.112.93:3276/OKOUDVYEBHEHBJDD3PP8YGH2ZLCBWGBA-L3RtcDIvbnNwb3J0LXN0-2071060153-a5fef09d6dbe17af1a17ac456abeb2c2/str1/stream
+#EXTINF:-1 tvg-id="nSport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/nSport+_HD_1.png" group-title="",nSport+ HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/76/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Eleven" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eleven_HD_1.png" group-title="",Eleven
+http://wolverine.castto.me:6081/live/8QqxNFNWWtdlp8JSCIJ7/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/eleven.html
+#EXTINF:-1 tvg-id="Eleven" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eleven_HD_1.png" group-title="",Eleven HD
+http://portal.geniptv.com:25461/live/3gj6m6hqr3/NrLJJV87Og/931.m3u8
+#EXTINF:-1 tvg-id="Eleven Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eleven_Sports_HD_1.png" group-title="",Eleven Sport
+http://wolverine.castto.me:6081/live/dJVsQrRrrmJwXskTsxzj/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/elevensports.html
+#EXTINF:-1 tvg-id="Eleven Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eleven_Sports_HD_1.png" group-title="",Eleven Sports HD
+http://portal.geniptv.com:25461/live/3gj6m6hqr3/NrLJJV87Og/930.m3u8
+#EXTINF:-1 tvg-id="Eleven Extra" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eleven_Extra_HD_1.png" group-title="",Eleven Extra HD
+rtmp://31.220.40.62/privatestream/ playpath=hgjdfhsdfsdf?keys=rC3nCQgXdvSB6UHQ8sSAmg?keys=YAWrg1_EQo5tcaFl4L7hVg&keyt=1492855847 swfUrl=http://privatestream.tv/js/jwplayer.flash.swf live=1 timeout=13 pageUrl=http://privatestream.tv/player?streamname=hgjdfhsdfsdf?keys=rC3nCQgXdvSB6UHQ8sSAmg&keyt=1490831939 &width=600&height=450
+#EXTINF:-1 tvg-id="Eurosport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eurosport_HD_1.png" group-title="",Eurosport 1 HD
+http://tv.j.pl/ch?http://streams.iptv.zone:80/p/152980/c/75/u/__SERWIS__TeleJAZDA.pl__
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eurosport_2_HD_1.png" group-title="",Eurosport 2 HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/eurosport2_hd_1/1713/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="TVP Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/TVP_Sport_HD_1.png" group-title="",TVP Sport HD
+http://wolverine.castto.me:6081/live/T5Jdl2x9L4YSnwzQX5CL/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/tvpsport.html
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Sport_HD_1.png" group-title="",Polsat Sport HD
+http://wolverine.castto.me:6081/live/pCatRQBhPuxsykt2cYJj/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/50.0.2661.102 Safari/537.36&Referer=http://tele-wizja.com/sport1.html
+#EXTINF:-1 tvg-id="Polsat Sport" tvg-name="" tvg-shift="" radio="" tvg-logo="http://tele-wizja.com/logo/ps.png" group-title="",Polsat Sport
+
+#EXTINF:-1 tvg-id="Polsat Sport Extra" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Sport_Extra_HD_1.png" group-title="",Polsat Sport Extra HD
+
+#EXTINF:-1 tvg-id="Polsat Sport News" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Sport_News_HD_1.png" group-title="",Polsat Sport News HD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polsat_Sport_Fight_HD_1.png" group-title="",Polsat Sport Fight HD
+http://hls.redefine.pl/1A4514F5/12311/0/hls720/masterlist.m3u8
+#EXTINF:-1 tvg-id="Extreme" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Extreme_Sports_1.png" group-title="",Extreme Sports Channel
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/extreme_sports_channel_hd_1/11388/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="FightBox" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Fightbox_HD_1.png" group-title="",FightBox HD
+
+#EXTINF:-1 tvg-id="FIGHTKLUB" tvg-name="" tvg-shift="" radio="" tvg-logo="Fightklub_1.png" group-title="",FIGHTKLUB
+
+#EXTINF:-1 tvg-id="Sport klub" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Sport_Klub_1.png" group-title="",SPORT KLUB
+http://194.28.112.93:3021/CXTXD1TOT1Y7C4DMEK2DCZK0LHOYDMYG-L3RtcDIvc3BvcnRrbHViLXN0-2071023686-de0025cf150994cb543217be301eb0b9/str1/stream
+#EXTINF:-1 tvg-id="Kino Polska Muzyka" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Kino_Polska_Muzyka_1.png" group-title="",Kino Polska Muzyka
+
+#EXTINF:-1 tvg-id="8 TV" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",8 TV
+http://193.32.36.27:14931	
+#EXTINF:-1 tvg-id="MTV Polska" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Polska_1.png" group-title="",MTV Polska
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_polska__1/10253/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Dance.png" group-title="",MTV Dance
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_dance_1/10257/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Hits.png" group-title="",MTV Hits
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_hits_1/10256/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Music_24.png" group-title="",MTV Music 24
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_music_24_1/11753/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Rocks.png" group-title="",MTV Rocks
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_rocks_1/11309/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MTV_Live_HD.png" group-title="",MTV Live HD
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/mtv_live_hd_1/10254/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="VIVA Polska" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/VIVA_Polska_1.png" group-title="",VIVA Polska
+http://r.dcs.redcdn.pl/hls/o2/redefine/nlive/viva_polska_1/11299/0/tv-ss/live.isml/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Muzo_TV_1.png" group-title="",Muzo TV
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Trace_Tropical.png" group-title="",Trace Tropical
+
+#EXTINF:-1 tvg-id="Eska TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eska_TV_1.png" group-title="",Eska TV
+
+#EXTINF:-1 tvg-id="ESKA PARTY" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Eska_Party_TV_1.png" group-title="",Eska Party TV
+rtmp://stream.cdn.smcloud.net/eska_party-t/eska_party_720p
+#EXTINF:-1 tvg-id="4fun TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/4Fun_TV_1.png" group-title="",4FUN TV
+http://hls.redefine.pl/894619ED/1579/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="4fun Fit%Dance" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/4Fun_Dance_1.png" group-title="",4FUN DANCE
+http://hls.redefine.pl/99520853/1576/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="Stars TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Stars_TV.png" group-title="",Stars TV
+http://starstv.live.e55-po.insyscd.net/starstvhd.smil/chunklist_b1100000.m3u8
+#EXTINF:-1 tvg-id="Polo TV" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",Polo TV
+http://194.28.112.93:3055/0L2JXWMHF4SZIHYM95X5LQ8DC2T6IC79-L3RtcDIvcG9sb3R2LXN0-2071062830-9764ff95d72c63aa400f92c276e6579a/str1/stream
+#EXTINF:-1 tvg-id="Polo Party TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/Polo_TV_1.png" group-title="",Polo Party TV
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="Hip Hop TV" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/HIP_HOP_TV_1.png" group-title="",Hip Hop TV
+http://stream.cdn.smcloud.net/hiphoptv-p/stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://dwiptv.cba.pl/ico/MEZZO_1.png" group-title="",Mezzo
+
+#EXTINF:-1 tvg-id="TV Trwam" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TV Trwam
+
+#EXTINF:-1 tvg-id="E!" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",E!
+http://hls.redefine.pl/C9A7A544/11314/0/hls576/masterlist.m3u8
+#EXTINF:-1 tvg-id="TVP Szczecin" tvg-name="" tvg-shift="" radio="" tvg-logo="" group-title="",TVP Szczecin
+http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpszczecin
